@@ -11,6 +11,5 @@ My name is Devang Laddha. I study at the *University of Chicago*. I am currently
 Here is a picture of my favorite soccer player, Kevin De Bruyne: 
 ![](Images/KDB.jpg)
 
-Here is a link to my favorite soccer team, Manchester City:
-[link] (www.mancity.com)
+Here is a link to my favorite soccer team, Manchester City: (www.mancity.com)
 
