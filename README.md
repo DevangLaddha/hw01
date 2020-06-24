@@ -8,4 +8,6 @@ My name is Devang Laddha. I study at the *University of Chicago*. I am currently
 * Complain about Chicago Winters
 * Watch TV shows
 
-Here is a picture of my favorite soccer player, Kevin De Bruyne: ![](Homework/Images/KDB.jpg)
+Here is a picture of my favorite soccer player, Kevin De Bruyne: 
+![](Images/KDB.jpg)
+
